@@ -23,14 +23,14 @@ const Header = () => {
           </div>
         </Link>
         {/* Socials */}
-        <div className='flex gap-3'>
+        {/* <div className='flex gap-3'>
           <a href='#' className='text-blue-600 hover:underline'>
             Facebook
           </a>
           <a href='#' className='text-blue-600 hover:underline'>
             Instagram
           </a>
-        </div>
+        </div> */}
         <nav className='hidden md:flex gap-6 items-center text-sm'>
           <Link to='/'>Home</Link>
           <Link to='/programs'>Programs</Link>
