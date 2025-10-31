@@ -10,7 +10,7 @@ const Header = () => {
         <Link to="/" className="flex items-center gap-3">
           <img src={logo} alt="Binyane logo" className="h-12 w-12 object-contain" />
           <div>
-            <h1 className="font-bold text-lg">Binyane Private Tutoring</h1>
+            <h1 className="font-bold text-lg text-blue-600">Binyane Private Tutoring</h1>
             <p className="text-sm text-gray-500">After-school programs — Primary & Secondary</p>
           </div>
         </Link>
